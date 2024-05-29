@@ -14,7 +14,7 @@ Automation Teaser
 <div>
   <h4>🏆 Github Profile Trophy</h4>
   <a href="https://github.com/ryo-ma/github-profile-trophy">    
-    <img src="https://github-profile-trophy.vercel.app/?username=poonamchauhan229&column=7"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=Hrushikesh008&column=7"/>
   </a>
 </div>
 
@@ -26,7 +26,7 @@ Languages and Tools:
 
 ![](https://activity-graph.herokuapp.com/graph?username=poonamchauhan229&theme=react-dark&area=true)
 <!--
-**PoonamChauhan229/PoonamChauhan229** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Hrushikesh008/Hrushikesh008 ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
