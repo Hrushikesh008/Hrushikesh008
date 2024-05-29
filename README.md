@@ -9,7 +9,7 @@ I'm
 Automation Teaser
 
 
-![Visitor Count](https://profile-counter.glitch.me/poonamchauhan229/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/Hrushikesh008/count.svg)
 
 <div>
   <h4>🏆 Github Profile Trophy</h4>
